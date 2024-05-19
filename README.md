@@ -1,16 +1,20 @@
-### Hi there 👋
+### bem vindo ao meu perfil!!🖤
 
-<!--
-**EduardoQueiroz0507/EduardoQueiroz0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Eduardo Queiroz
 
-Here are some ideas to get you started:
+- Estou cursando o curso alura,Na rede estadual de ensino de São Paulo.
+- estou na 2º serie do ensino medio.
+- estou estudando a linguagem de programação javascript.
+- ja usei o scratch como ferramenta de aprendizado.
+- tenho 16 anos
+- uso o ambiente do github para me organizar e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contato comigo ⬇️
+
+email: eduardo2007gjle@gmail.com
+
+facebook: Eduardo Queiroz Da Silva
+
+instagram: eduardo_queiroz_2007
+
+![](https://media1.tenor.com/m/3eCKthtks64AAAAC/saopaulo-sp.gif)
