@@ -15,6 +15,6 @@ email: eduardo2007gjle@gmail.com
 
 facebook: Eduardo Queiroz Da Silva
 
-instagram: eduardo_queiroz_2007
+instagram: @eduardo_queiroz_2007
 
 ![](https://media1.tenor.com/m/3eCKthtks64AAAAC/saopaulo-sp.gif)
